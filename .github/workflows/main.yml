@@ -62,10 +62,10 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_steam: yes
-          plugin_steam_achievements_limit: 5
-          plugin_steam_games_limit: 5
-          plugin_steam_playtime_threshold: 5
-          plugin_steam_recent_games_limit: 5
+          plugin_steam_achievements_limit: 0
+          plugin_steam_games_limit: 8
+          plugin_steam_playtime_threshold: 8
+          plugin_steam_recent_games_limit: 8
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: ${{ secrets.STEAM_USER_ID}}
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
