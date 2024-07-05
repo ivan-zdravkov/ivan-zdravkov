@@ -277,7 +277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kelseyhightower/kubernetes-the-hard-way</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bootstrap Kubernetes the hard way. No scripts.</div>
@@ -452,7 +452,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        674
+                                        675
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -631,7 +631,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.433333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.95 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -653,7 +653,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 226 times</div>
+                                <div class="text">Repositories have been deployed 227 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -994,7 +994,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.30m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.30m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1780,7 +1780,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jul 2024, 21:02:14 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jul 2024, 22:01:56 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
