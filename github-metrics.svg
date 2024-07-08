@@ -418,7 +418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ublue-os/bazzite</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.</div>
@@ -631,7 +631,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.949999999999996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="45.46666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -653,7 +653,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 287 times</div>
+                                <div class="text">Repositories have been deployed 288 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -691,7 +691,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.63m out of 140m users</span>
+                                    <span class="gh">ranked 2.64m out of 140m users</span>
                                 </div>
                                 <div class="text">Published 22 public repositories</div>
                             </div>
@@ -994,7 +994,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.30m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.30m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1780,7 +1780,7 @@ Pretty sure it's not the Windows but probably something came loose on the inside
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jul 2024, 10:02:56 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2024, 11:02:38 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
