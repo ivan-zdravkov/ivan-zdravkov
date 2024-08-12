@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>valinet/ExplorerPatcher</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project aims to enhance the working environment on Windows</div>
@@ -586,7 +586,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.053333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.156666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -608,7 +608,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1136 times</div>
+                                <div class="text">Repositories have been deployed 1137 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -678,7 +678,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.68m out of 142m users</span>
+                                    <span class="gh">ranked 2.68m out of 136m users</span>
                                 </div>
                                 <div class="text">Published 22 public repositories</div>
                             </div>
@@ -1767,7 +1767,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Aug 2024, 19:02:15 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2024, 20:02:17 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
