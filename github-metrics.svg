@@ -498,7 +498,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="171.53333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="171.63666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -520,7 +520,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2660 times</div>
+                                <div class="text">Repositories have been deployed 2661 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -932,7 +932,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.41m out of 225m repositories</span>
+                                    <span class="gh">ranked 5.41m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1594,9 +1594,9 @@
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABgABBQcCAwQI/8QAMBAAAQMEAQQBAgUDBQAAAAAAAQIDBAAFBhEhBxIxQVETIhYyYXGBFBVCIyRDobH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APPVKlSoFs7JA+0ef1pgRyRwk+qKun+FTc2muMwnAywyO5bihsUSdXMLsmJw4SYMoG5q4daJ3sa8gUFZAjwngDmmTyOAe4HkUX9L7Jab/kjcW/SAzG40jei4fgVN9S+mErFWHLlGdD9sKiUhI5SP1NBWwFI0kKCkgj3zT+6BvZA81L4jFtk7II0S9uFuE6oJUsK1qoc8J0n8yuKSwDoJB49j0aD1rP8A7X00wlyXZ4xWwlHekjlSx+9V5lEe3dWscVfLIS1eoie5yOo7KgPGhQ5YupH1sDumPZDpaiz2x3D8/FdPSOwSMeKstvLyodub5aZJ19fXrXugz6Y4g1ZGHMszEGIxEJLDKzoqWPNWlgWYQ+pcO4xXYKgwgEFCtHaN8EVXeWs3HqfZ5Nyt74S/EUpQtaBpXZ6UR45qAw3OG8OwSZAjMlN8eUttXoo590HF1fsdgx6//wBHYnFLd/M8O7YSD6oEHPngjxWch56XIcky3C484dqWef4rXsnXd/FUNvgnwBSUe0Djn3qkVdo2r8x4FWz07wmDarV+LM1IZitfcxHWdFwj/wBFQcuC4VHtsL8U5sn6VuZHewwrgun4qfeu7t9tj+Wvt/Xt8HYiW9rgI7eApQ8EEUHZNd7x1LuclUI9sSGn/ShI42kcDjx4qPx5+fik6JJ+sFxX3C07FXyBryNeKA0s18l5Bbn8rgoTbLlb/uUQO1qQkcBHaPYpXmy23qbaV3vHUIjZAwn/AHMUf8mvYH61BZdNk5PcHIFmCYMCOgPKZQO0qUfO9eqhY8C9YVLRdIssNus6cKOdLHwR7oBh1p1h5cd5pTUltRCkK9GsfI37HmrunWy19WseN1s6URcljo27HHBc170PmqXkxXost2NKQW32SUqQfRFUFfS22QJuQmbfFpRbIADzgV/kPisepeaSMuuxCAWrWwfpx2U8DQ4BI/ahRD7qGVsJcKWlDnR8/vWoA6/b/qoJnGbqizuyn0d4lFADSknQB/Ue67ciyJq/Tbe4I5ZWyoFwDgKOuTQz9vnwD4B904Otb5IPAHmgJW7y3bMsTOaBdb7EhaE/5D4pZjlKshbYBQWuxZ7j6KfQobWruPcf5pvBI0ORQSWO3ydjd2ZuFsdKXWyCQk8LHxqjrqhJteUW2Fk1oSlElf2TGk+U6HKj/NVl43rYVW1p91ltbTSyhp0aWn0aD//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABAUGAwcBCP/EAC8QAAEDAwMEAAQFBQAAAAAAAAECAwQABREGEiETMUFRByJCYRQVI1JxMlNicoH/xAAbAQADAQADAQAAAAAAAAAAAAAEBQYDAAECB//EACERAAICAgICAwEAAAAAAAAAAAECAAMEERIxEyEiQVEF/9oADAMBAAIRAxEAPwDmFvhlKumTyaoWYCI7YKV5cPitorSYp2yGj1j2oosrB3dM7/AqWvyS/U+mfz8YdrCmUIdYQ2ppaT5JNJbzEbYfKG8gkZ5qhjFtasvbm1JHYmkuqLguPciCEBsIBypNZ0qxhGW9aDZPuTLwaacQh4/KTyaUXRMYhDUZ0OlCiopTTJ9CrlPQnpqeHf8AT4oaY210lttNFDqiU9uabVrqT9rKwLLFBuC1Qi0sYwTxS3rNPIXv8VrOYLQSc+cGhMIQFoxyoUagk/kWsTp+p9DKtoQCt1QdWPIoSO1+aSvwrS+k5nG405btskx1NMk7T3UeaWPWpUFJKXcun6k1NUurGXfk4LxTudP0toeLZ7cq46jdR+GZG8Z+j/JXsUj+M8BV7tEaTYo8Z+0N8qcZbAUnjuT6oSza0kybBJsd2ZXJaeR00Ed/+mm+ibbJsCuvdHsIf+Vq3r5Kx447U5q4ASZvqyEsN2Qfl9CS3wRtEuJcnrhIZYTbAnC1vtg5A8D1VnrX4c2bWkBM3S77DUlDiipaR8p+2Ky1SJd7gvwbWpuHNaytVuSMLWk9sY4qJh/EB7SOlPyOEyuPdS6srcd5AzWpOoJYrswZO/ycm1lp16xXFyHLUkuA43DtUnJjgFOMOKB+mq65vyJMt6RLe6y1ncpauQCam56kpTsBC9x7p4rStp1lBSvy7n1KlkNRsjO1XATnk0ocssy5S0x7c2opX/W4eQ2PZoi1SxOnhp10JT9R8IHujtV6uZixTb7IpDaUD9R/+59gamcYaPuUNhsrPiUbP7ALlKtmiY5XF23C7gYK08oaPsigrTq5u8x348x4RrlJG1qW7yjPpI8EVIW3UqYhmzpBbLpG1tLqd2TnzSi86hgSnoCIUZUVQdLiys5wT3I+1PazsQLIXj6Y7b9ltf7yqwWUw5Ek3K6glSJUU7VI9bj3IoO1361a5ZNq1Y0iLcUJAYmoGxKT4K/dSTOooEa/TWJLS34sxlLcg552jn5T4NYan1RBuwSu3xPw8sAMOrGAOknhOPv7NFARU4cGe670ZddJK3XBCpdsVy1LZ4QqoBwlaioJz+w11vSPxDftDKbLqZAuVne4WFDKgk/tJ7GpX4k2W22y6ty9PykP2h352lJOcLPdB/itABBb/IZUImKQkrStQJ4OD3rKRKwwUnkqpPGl9QdOvZT+R/rU4lejLyy5AuzEd3lkyNuw4HilqpCVKJWk5ot/c5KJJGKUXBCgpW1QprjrsScymIPP6mqn2gvJVz7rJUtpKuDilik+zXqmklvOaO1FD3vv1GLk8vjnnHasFylKQG1KUWwchOeAf4rFqMOCFVq5gDAGTXJ4d3In/9k=" alt="" />
                             <div class="about">
-                                <div class="name">New World</div>
+                                <div class="name">New World: Aeternum</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1718,7 +1718,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2024, 06:07:33 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2024, 07:02:25 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
