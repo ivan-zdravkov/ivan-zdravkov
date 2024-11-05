@@ -498,7 +498,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="224.44 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="224.54333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -520,7 +520,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3172 times</div>
+                                <div class="text">Repositories have been deployed 3173 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -969,7 +969,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.44m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.44m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1101,7 +1101,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABgABAwUHAgQI/8QAMBAAAQMDAgYBAgQHAAAAAAAAAQIDBAAFEQYhEhMxQVFhBxUiFDJScRYjQmKBobH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhMQNB/9oADAMBAAIRAxEAPwD5Wwcf9rthlbyuBpCnFHoEirrRlqj3a8tMzlFMUHLpBxtW0S7fD0daSbBEadE0cttb6QsoP6sntWcvRRdDUWzJtNaCvV+ythgstDq4sbUTtfH1ihcLd1v8YvIOXODI28VHrS+SLYvkEvRua2DyEL4VJV3Vt2NBf8TXBQSFFlXCcgqRkn9/NVrA0uF8caVnJU3Gv7BcO6XeI8I9Yqu1F8PzYbEmXa5TcuI0gKBQPzHvQE1qGc0sqSpAz2SnFHtl1guXFbS2+426NnGSrZweAPNTJyjwaSZnt4sc60TTFmx1oeS2HVJ8JPQ1WkbY71ul4lW+dbVhCC8JSQ07ndxsD+7xQVr3Tlth26PPtboS0QEYJzxEDcURneMHE70tZ4arY5LKXULzjPFs5jsPdGsy6wbg8xJnSOXEYQEckHBUQO3ugLQa2lEOzUvOb4bShWEg+xXn1hKcjPvMcotpcG6T1A8isnG5aVdLCn1ldBd769IQSWwAhGTk4HSqTrTH1TmulZhmL+kVNEkLiyEPM7KTvUPTpTf6oA1HSepZVwtM5hxyI2tCM7t79a41hNXcbEmA1H5bcUc3JG6ieuKCtNSmI0r+cFZXtkHaiv5AnRmyktoc/EutJSVJVhIGNtqxcanhd4Umi7gIjxaV0J3B7j1Vh8ptcq6MFAIaW2k79elB8B9UWSh4EZSc70eX1qTqa3szHVIXhIQ3wDHCQOpq2qlYrwzvvvTVLIZXHdU26MEHFRVZIhSpdacAqOEigD021gvy20JB69fFGWtYaLdYIKeeh111RCgfzAYr1fHVhdjOfVZrOY6Nw2Ruv0KHNcXgXq9uOoZXHQj7Q2o9MVHWOsB4A/tir/S9++kvhD/E5Ec2WjO4Hqh/GD1/zTg77dfdXViNStF3tcW7mQWWZynBs1wg5HjfvV5ZLBpq/qlKUwoAZW7wqxyQT3rHrTJbYmtrkZ5Gfv4ThRHo0TW/VcS3tyGIUZ9tD/2rUpecisZxa1aUmvobyPj/AEpFmFtx911kjKHEOYCj4qNtvTlguKkLZSy2lIKA9hRNBcO/xwwt+Q4tT4J4UcW2O2BQ9dbkqc8Vq4j+kKOSKFGTxsdpcDTW+ulTUiLbEJYZG32jFZ2tRUslRKlHqa5JJO+9Inf16rVJJEtn/9k=" alt="" />
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                             <div class="about">
                                 <div class="name">The Elder Scrolls Online</div>
                                 <div class="infos">
@@ -1755,7 +1755,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Nov 2024, 13:02:15 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 14:03:06 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
