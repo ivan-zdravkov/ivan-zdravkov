@@ -272,7 +272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JosefNemec/Playnite</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</div>
@@ -359,7 +359,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        132
+                                        133
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -412,7 +412,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        49
+                                        50
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -537,7 +537,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="398.1433333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="398.24666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -559,7 +559,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4853 times</div>
+                                <div class="text">Repositories have been deployed 4854 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1008,7 +1008,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.52m out of 229m repositories</span>
+                                    <span class="gh">ranked 5.52m out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1470,6 +1470,46 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABgECAwQFBwAI/8QALBAAAgICAQIFAwQDAQAAAAAAAQIDBAARBRIhBhMiMTJBUXEHFEJhFSMkkf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESESMQP/2gAMAwEAAhEDEQA/APmV5Avv75A7FvmO2OkHq03vj6ZTzwLHwzOqOn6PSFVB2NFvxiE7+XsPpnVfDv6f8FzPHfuv89Wrdu6tvMznvBdGhOsHH8jFZdv5DZGHVC5w56TpOx7HHFCvSGBVT9Th3wPgyvamNbkLsUR38j21m3y/6e+HeMoNO3iSrOyjflje8Ogo5UvSVIJxyDY1j7oi85lgO1B0D9xkOio0PfGFFn9vO9c2RCxgHybFpU5LyzGH0rEvXpvc5seEuUPH2ZYHClZV0FkGx/5hLxVevd5mqs0YWKy5jdU7b/GS5Cl6RcDRkq04KledGmmOz/W81BwzLNCsdyNQHJct3OVgOLpc3HVeragXzCpkaT2H0y9ToR8ffqG879VqZlVS3uv0OZvTeKwin4SyluMicOZG0pGZd6otyvLBJYjV2JQAjvsZa5kR3IbE0sk0MsTFU6X1oA4nEU4LXFB5oZZn2QOhtH84ky5QpABcoSUR/u+JYqP7xstSzFVWyYHWo50HP3w1LxiaVoKxVKw6tTerZwf8Ycv++WCvH0rHGerpUaGzmsXZyTdGJr5Ps9QHbCnw5zIq2qlhzvym33wT2Qer+J7Z7zOkEKe2Nop+nQFepYvxXXkLSeaW6SdjLh5Az2KSynbV5mcE/QH2wU4X/oqgd/NB7YklieN5Gk2GPpGZuJt3SN+GdLEE8NiNvVIx3v8AvHpZqwUhXjEylSTsPg1DYlJj8rqZmbXvlrnoZakL+YrKzIDgoiX0tCc3yiJtYm7EaPf3wWO263P1xGD6DPvR++SOQAAM2SOf1i632yORTkoxrHJsuXoSeDeVi4sWppVVmjTahhvZzGn5CSa608o0jOW19sqqAVA7jv6vxjjtxphpPYHAbWEklx/NjkTt0tsAZueJ+XPLUqxGg0YAOvr2wfCKoBJ9OI3ZgAfScLHGOERJI741ffJiBvFZQBlWQlp//9k=" alt="" />
+                            <div class="about">
+                                <div class="name">Path of Exile 2</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Adventure, Massively Multiplayer, RPG, Early Access
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        8 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 14 Jan 2025
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            0 / 0 achievements unlocked
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABQYABwIDBAEI/8QALhAAAQMDAgUDAwQDAAAAAAAAAQACAwQFESExBhITQVEiMmEHI3EUQlKBobHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUAAQQC/8QAJxEAAgEDBAEDBQEAAAAAAAAAAQIDAAQRBRIhMWEyQeEUIlFx0fD/2gAMAwEAAhEDEQA/APlRRRRSpWzIIB7qDJyQNO6KWWzVN1eBCw9MbuTTFwezoF1RII2N7lCeVVOCaZWul3F0u9F4pB018KD/ACrBhsVnqR0opR4Izqh144KqIPuUDhM3+A3VCdCcHijSaJdKm9AGHg5pNJUWUjHRvc14Ic04IPYrFGpP1WWPhFbJZ5bo/wBBHI3fRCydd9E8fT+QR09QZB6CO26HKxVSRTHS7dLi5EcnVGbhPT2CkimBDYg0BsTdHPcN0h3e+11zkLpZHNaTo1pwMLdxbWy1t2eZchrRhrew+UEyO+y4iiCjc3JrXqupPLIYYjhB7dZx/uqyZLI05Ejwfgpn4e4kqYQ2jq5T0XnHMTqP7Stpk5XnyTr2RGVWGCKW213LbOHjPzTzxvZYhSR3CkA2y/Hjykb86/hWdRTNquE5GS+t72ch+Aq0kHLI9oHtJCFAxwVPtTPXIYxIk8YwHGcea165Tb9O6lsdfNE7Uyt5QDslIZXXbKx9BWxVEfuacosi7lIpdYXH01wkp6Bpg48tzoLgKqNp6EvpBHkbpXGm6tBtbRX+P9O1zTTOYOo0+5p7kHslS88JVVJmWj+/BnI5dwPlBhlwNj9021TTWd2urb7kPePb4pZwM7rooKR9bWxU8QJfIcBb6C01tdP04IXFw92mydKa1UvDdKKqSVpmI9RP+h4KJJKF4HdYbHTZLg73GEHZ/lEbxUMs1i5oWsDwzkAI/cN1Vr3l73vOMvJJRnia+vvEzeUFkDNm+flBMDGVUKbBz2aJrF8t1MBF6FGBWymnfTzCRoaSOzhkJiorraZoiy4UbhMdpGkAJZH51+V5n1ZKIyBu6wwXTwenBHkZqwrfVcNQsD4ZHQyt11doV1VXFVtiidyv6rnDGGnRVmdtNlB/xQTbqTkmma6/NGu2NFX9Cn6h4mtcc5LIJIydzzLtfe7HcG4qpA0A7OKrTAJChGSdNlDbKeRmomvzqNrKpH4xVgXO42TmD4jA8NGA1owk671kVZUc0MQjYEPP9L0eCu0jCdVju9Se6yCoA8Cv/9k=" alt="" />
                             <div class="about">
                                 <div class="name">God of War</div>
@@ -1749,52 +1789,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
-                            <div class="about">
-                                <div class="name">STAR WARS™: The Old Republic™</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Massively Multiplayer, RPG, Free To Play
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        838 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 17 Nov 2024
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            160 / 191 achievements unlocked
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2025, 15:05:11 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jan 2025, 16:02:24 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
