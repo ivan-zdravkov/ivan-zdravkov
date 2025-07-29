@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1610" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1739" class="large">
     <defs>
         <style/>
     </defs>
@@ -235,12 +235,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 2 commits)</small>
+                    <small class="h-details">(computed from last 4 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 16:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly pushes code around 17:00</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -479,6 +479,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ivan-zdravkov/free-water-tips</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/website</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#470a075</div>
+                                        <div class="message">Buttons fixed</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ivan-zdravkov/free-water-tips</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/website</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a973e52</div>
+                                        <div class="message">Menu navigation works</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1099,7 +1139,7 @@ Add to readme</div>
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAgQFAwYAAf/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwAEERIhMQUTIjJRYRQjQTNScYHB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEBQEG/8QAJBEAAQMDBAIDAQAAAAAAAAAAAQACAwQREhMhMUEFIyIyUTP/2gAMAwEAAhEDEQA/AIllFCi4LVQIt0hyG3/muOjv2Gxp2C8yPM7VcX2F1nRxSG5YqLvEZTitopdKN2yCa529vSshCjmj6XLJ5M7bUoVgc7RHC0R4uc0xmmFmq/b3UkH6WME75rz3TPcqWGPmpfUmc2uYW0tWHTupCUC2ufFv3V01Qido9IqTxUstPrwjYdLrzEJYA3Mh9qQ6k6WbJGd2bk+1T4erSWdwYHGYjw1Dd9Qjkgkil3ZvS3tT2vuLrJbFK3+i461l8Tk02s4I5qVAwEZo4JAWqNz7NxK1orxStl/FTGGcBjt7mtBN2JNKnK0jcOTbkJ6qKyBFue76qgEZi55K9Sao1bxtaPsKk8ks+lUO1BfwJFoZDmT4rGOftShYznavNI5LPjJFMMZlFu0oVBo5Moh6/wARCQle1KTq5BNLG+bu9lh4D81i9wXk1vs3FYTEhsNy1Wtf8cF52rcaqbUb2pMkrR3OlMlCKq9OjVrdwpyx/Nc7HM07AJuTXQI62FmMn7hqSR91ZQU5mOT9gE1HAy4yc05oyy1PguzJBmvr3xQikXuVrseB8m/VN3ERjf8A2jsr9Ype2wUj5pC7vdQCZ8iKRlRlGdXkaK5G6AygDJ31VC+R5Y2ZQFOTipbPuArEzfJqgr/URAStocbAe9T7yIRzKTs3vTWSkKCppmw+6HdpSPRoVttUsvqHArQTSXMrSSA6BxTaQq82G2FHLDhCqjCUnlVFubcI+Aijli+iJJwRShuWmAQjC+9B2wYCGNKv3FYADxow1SSVOJwTEkrLdqRuFFMFpHUj+6REEmjWT6tqbj1Fl352rjnhHCTObO4ROJljUfkb16/mW7hQNsU5IrWPIc6jtxWE0JWNyo5oQ4KjTMPrPa//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABAIDBQYHAAj/xAAxEAABAwMDAgUCBQUBAAAAAAABAgMEAAURBhIhBzETIkFRYRQyFSNCcYEWUmJykaH/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCAAH/xAAbEQEAAgMBAQAAAAAAAAAAAAAAAQIDETEhBP/aAAwDAQACEQMRAD8A88A4pxHmpskGuTkUGFC1tC2BuTsJCU+maWolxQG04b5Bqb0HpadrG9ItcFtS0cF5wD7En1q8dXumsDQ9tiLbuKFz3OFs5OQMcGiQVtZmZcIQpW0rbIwMe9NOA/lpJA5ynNX7o7omBrW5yIUuemOpCAptBJy4o+gqN6laCuWhLl4NwSXIzij4L4HlV8D5olegZFRCjv5p9rG+hEK8/NHR1t7xmn8XpLNxC8FBz5W/nvRMNcYS2DObWuHkZKDg0M4nDxB8ycdhSwojatBSEg/aoZqVC7mjUPaeiommtG9NJmoNHtiXtj+IshW5RVxlOf5rPdQPW7rdp1yTbz9NqWDkqiqPLqewAFZX0/6iXHTUOba8fVWyYnYY4GTk+3tWh9O9Mp0U83qO7Nvfj05ZNvtTatris8gq9CCK3BCentF2aF0hsTmpNW7m70slMWCVYXkev81q0ObY+p3TX8V1PGMaAlSyvecKQB6g+lZPq7S8jqFElLlrehawikvfQyV7vEQT5UpHYGqDq3Xl0XphnSjaFQWoiiH28bSs9jXsdeSqGoDbk3+U3ZNyoqXChBJzlIPFIiJKlpbSnz5qOTy0hQHhqJxmpGOlKDjxgF471T+b0l9PEKnBUndncf8A2nI7Dkp1CYyFOuFW1Dae6j7UKpSskkYUO3+PzW/6MsNs6WaSb1dqxpK7zITugQ14ypWMg4+RUeq3nkzYNNWzpfZmNQ6rQhy+uDfEhL5wcZGR2NL0vqVWsYV3eZkBvVrySmM04c5GfKlsfpIrPYuoV6w1JcrprEPSoiE7/CbVt2JzwB7You4WpGnZlilWp1TrEiQSiU0rGARkIz3yKMShcL5dZml9MxhqaXt1Ww4XGG0HDrfsXD+pPxRoiWrrPY1vxlMxdXxWxltA2h7HbgetU2A1H1Hf7sL6tcic2yDFWVferPbnvxQmrm/6Gu0GTp6QW5Kdq/FQrhKschXvXRDlPu1umWie/EuDC2J7BwpKxwofApLScHJPJGT8VvZetfXDSLhSyiNrC3t7glICS/jgcetYG8y9FkOxXR+chZacHsR3p7DbRTNGybNKjQ7sxKlN+JDSrK2/VVSWs9U3HVdxTKubilIaSG4yM+RCRwOPfFQePRACh/d6ClIxvG7htHJSe5qXVWv6dhSFxUvD0dTtPzREGc+xIjeI4tTTS96UKOUp/YVHuEKGQeAc04pQO0578UYrMD5c5xyWX2lqQrOcpODQsl56SsF1xbn+xzTYwPLmu2hPGa1ViyQ05eJ9hvTFztTim5rBylKTgH9x6ipDVF0avV1NwioCFPAeKkDsv9R/7UAeHErB2kfcfcU6MJ3H7SeR80es6L29f//Z" alt="" />
                             <div class="about">
                                 <div class="name">New World: Aeternum</div>
                                 <div class="infos">
@@ -1263,7 +1303,7 @@ Add to readme</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jul 2025, 19:03:10 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2025, 20:04:55 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
