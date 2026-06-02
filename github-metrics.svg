@@ -829,7 +829,7 @@
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                            <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
                                 <div class="name">Last Epoch</div>
                                 <div class="infos">
@@ -1203,7 +1203,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2026, 02:29:26 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jun 2026, 03:33:20 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
