@@ -591,7 +591,7 @@
                         <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAIDBAYHBQgB/8QAMBAAAQMDAwIEBAYDAAAAAAAAAQACAwQFEQYHIRIxFEFRYQgVcYETFyIjMkJScqH/xAAaAQACAwEBAAAAAAAAAAAAAAAABAIDBgEF/8QAKBEAAgIBAwIEBwAAAAAAAAAAAQIAAwQREjEhYQVRkaETIzJBQoHw/9oADAMBAAIRAxEAPwD1ShCEQiOMk54XyR7Y2Oc4hrQMklVbTF2fPqC6WyZ2XQN/E+xKkbi1LqTRd0ljd0vEXB+6jvG0t5RkYrfGWk8sR7zr2usZcKczM5AcW5+iluAxk9gqZtFW/MNGQT5yetwJ913NT1fhraYY3Yqag9EX+yFbVd0LscpkNSPsSJ2h2QmqQOFLCJP5hjer64TqlFj0ghCEQmKMubbVvhJThzgyrYxjslXrdd4ZoO6dRHMZwsj3rqxaNxoq6IdMkccbgfUq67y3J35cUUrXZ8TG0n3y0FJhulgmotx/mYdw/IL7aSbsFL16CjZ/YSuOFF3Jvr26305aaZw62z9cnsCFE+HWqEun5ogeW84+6zi9XsVm9tNUSyYbHKGO57AcLm/SldO0sbGV/FcgtwNx9RPUsfMbM98BKTVM9ssEb2HILQQne6dmTMEIQiE81b7WuV+4NN4wkW6qDGNf6Hz5Wnbi6Yiu+2kdPFL0eFp2vicT34Cb33sPzXR8lWziWh/dBHdc67V01w2KqalkxEkVP09QPpgJbaFLd57wue6rGKn6Tt/v1FfD1Yn23TElXK/Mkr3Rlv0PdZdqXSME+9JtVue8wVDmve8OyWknJ5V/+G6qqjpaqE0jnxsy5occnKY2PsVRV6mvl+uDXuYZ3shc/kghyiFDIqiMva1GVkXWN1A6dyePSbZRQCmo4IAciKNrM+uBhPoQm5mOYIQhEJHqYI6inkhnaHxvGHNIyCFRb7pZtu20vdqgcXMlD5GgeWTnCv7v+eaRURMmgfFIMteMYUSuol1NzVMCOAQfSZbsVbJINvJWs/RPJK+ME+WCtFsVrhtFAKaAAAuL3Y/yPdRtKWb5Ha30ueoGZ8gx7ldkd+Co1ptUDylubkm652HDHWLQhCsik//Z" alt="" />
                             <div class="about">
-                                <div class="name">The Witcher 3: Wild Hunt</div>
+                                <div class="name">The Witcher 3: Wild Hunt - Complete Edition</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1203,7 +1203,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Aug 2026, 22:11:19 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2026, 23:04:52 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
