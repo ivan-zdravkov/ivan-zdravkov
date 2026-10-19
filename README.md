@@ -51,12 +51,15 @@ Along the way: freelance lead engineer for clients in logistics, retail and fint
 
 ## Tech
 
-**Core:** C# · .NET / ASP.NET Core · SQL · REST & service-oriented architecture · performance tuning · unit & integration testing
-
-**Cloud & delivery:** Azure · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · infrastructure as code
-
-**Also:** TypeScript · React · Angular · Python · PowerShell · Bash · AI-assisted development (Claude, GitHub Copilot)
+- **Backend:** C#, .NET, ASP.NET Core, SQL, REST APIs, service-oriented architecture
+- **Quality:** performance tuning, unit & integration testing, test automation
+- **Cloud & delivery:** Azure, AWS, Docker, Kubernetes, GitHub Actions, Jenkins, infrastructure as code
+- **AI:** Claude Code, agent skills & workflows, GitHub Copilot
+- **Also:** TypeScript, React, Angular, Python, PowerShell, Bash
 
 ## Background
 
-MSc in Computer Engineering, Technical University of Sofia, including a postgraduate research exchange at the University of Tokyo · AWS Certified Solutions Architect – Associate · Microsoft MCSD / MCSA
+- **MSc in Computer Engineering**, Technical University of Sofia
+- **Postgraduate research exchange**, The University of Tokyo
+- **AWS Certified Solutions Architect – Associate**
+- **Microsoft MCSD & MCSA**
