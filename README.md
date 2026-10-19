@@ -7,15 +7,15 @@
 
 ## Engineering with AI
 
-**Code is solved. Problems still aren't.** I was a strong engineer before AI. Used properly, it makes me a much stronger one. It doesn't replace the engineer. It takes the mechanical work off my plate so I can focus on what matters: solving the problem.
+**Code is solved. Problems still aren't.** I was a strong engineer before AI. Used well, it makes me a much stronger one. It takes the mechanical work off my plate so I can spend my time on understanding and solving the problem.
 
-In my current team, I help build a shared workspace where engineers and AI agents work side by side across dozens of repositories:
+My current team works AI-first, with engineers and agents side by side across dozens of repositories. Day to day, that means I:
 
-- **Small, composable skills.** Each one does a single job well: investigating a ticket, tracing a change's impact, reviewing a pull request, deploying, checking acceptance criteria. Chained together, they take a plain-language bug report to a verified fix.
-- **People keep the judgment.** Agents recommend, explain why and say how confident they are. A person makes the call.
-- **Evidence first.** Reproduce the issue, trace it to where the data actually goes wrong, and write down the findings before changing anything.
-- **Verified, not assumed.** Every significant change gets an independent reviewer whose job is to argue against it, and nothing is done until it's seen working in the real environment. A passing build isn't proof.
-- **Shared memory.** When we catch a wrong assumption, we record it, so neither people nor agents make it again.
+- **Deliver whole epics solo.** I've led new-functionality epics end to end on my own, in a fraction of the time they would usually take, plus a steady stream of stability optimizations.
+- **Run my work through agent workflows.** Investigating tickets, tracing a change's impact, reviewing pull requests, testing, deploying and checking acceptance criteria.
+- **Automate my own day.** I wrote skills that pull together my actionable items each morning and narrow them to the next right thing, so I work one problem at a time instead of drowning in the backlog.
+- **Start from evidence and verify outcomes.** Reproduce first, trace the issue to its root, and call a change done only when it works in the real environment, not when the build passes.
+- **Keep the judgment.** The agent recommends and explains. I decide.
 
 ## What I do best
 
