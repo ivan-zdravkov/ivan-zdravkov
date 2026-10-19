@@ -21,6 +21,22 @@
 
 Along the way: freelance lead engineer for clients in logistics, retail and fintech (Maersk, adidas, Dext); cloud automation tech lead and consultant at VMware by Broadcom; seven years growing from junior developer to technical lead on a healthcare and education platform.
 
+## What people say
+
+> "He is by far the best developer I have ever worked with. Ivan is highly skilled in designing and implementing web applications and always looks for opportunities to improve."
+>
+> — **Ravi Kumar**, Senior Solutions Architect, adidas
+
+> "Ivan has a complete command of the entire technological stack and deep understanding of the trade offs necessary at various levels in order to achieve overall performance."
+>
+> — **Momchil Penev**, CEO, SystemArts
+
+> "Ivan is highly skilled, meticulous, and easy to work with. He has great skills in translating business requirements to technical solutions…"
+>
+> — **Andreas Nissmark**, Product Owner, Maersk
+
+[Read all recommendations on LinkedIn →](https://www.linkedin.com/in/ivan-zdravkov/details/recommendations/)
+
 ## Tech
 
 **Core:** C# · .NET / ASP.NET Core · SQL · REST & service-oriented architecture · performance tuning · unit & integration testing
