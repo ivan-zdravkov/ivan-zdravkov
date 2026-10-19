@@ -1,34 +1,34 @@
 # Hi, I'm Ivan Zdravkov 👋
 
-**Backend .NET engineer based in Sofia, Bulgaria.** I design backend architectures, make slow systems fast, and streamline the way teams build and ship software.
+**Senior backend engineer with 12+ years in .NET.** I design backend architectures, make slow systems fast, and automate away the friction in how teams build and ship software.
 
-> 🟢 **Open to part-time contract / freelance work, ~20 hours a week (remote, CET).**
-> Reach me at [ivan@zdravkov.dev](mailto:ivan@zdravkov.dev) or on [LinkedIn](https://www.linkedin.com/in/ivan-zdravkov/).
+> 🟢 **Open to part-time contract / freelance work — about 20 hours a week, remote (Sofia, CET).**
+> [ivan@zdravkov.dev](mailto:ivan@zdravkov.dev) · [LinkedIn](https://www.linkedin.com/in/ivan-zdravkov/) · [zdravkov.dev](https://zdravkov.dev)
 
-## How I can help
+## What I do best
 
-- **Architecture.** Shaping or reshaping .NET backends: clear layering, sensible boundaries, data-access and authorization models that hold up as the product grows.
-- **Performance.** Profiling and optimizing APIs and SQL: query design, indexing, batching and concurrency for tables with tens of millions of rows.
-- **Workflows.** CI/CD pipelines, test environments, automation and AI-assisted development practices that let a team ship more with less friction.
+- **Architecture.** Re-architecting legacy systems into modular, service-oriented designs that a team can actually own. Clear boundaries, solid data models, documentation and onboarding that outlive the engagement.
+- **Performance.** Finding the real bottleneck — usually data shape, queries or caching — and fixing it at the root.
+- **Workflows.** CI/CD, test automation, dev environments and AI-assisted engineering, so a team ships more with less manual overhead.
 
-I also work comfortably across the stack with React and TypeScript when a feature needs it.
+## Track record
 
-## Selected work
+- **~95% faster auth on every API call.** Re-engineered a permissions system from 20M+ records to under 1M and added caching, taking authentication from 500–1000 ms to under 50 ms.
+- **15+ minutes → under 30 seconds.** Migrated an internal adidas tool from .NET Framework to .NET 6 with zero downtime, optimized its data parsing, and cut it from 3 servers to 1.
+- **3+ hours → under 10 minutes.** Cut VMware Horizon application synchronization time for an enterprise client, dramatically improving stability.
+- **Up to 5× faster configuration.** Led the re-architecture of a legacy Maersk logistics platform into a modular system on Azure Kubernetes, with full data modelling, testing and documentation.
+- **49/50 quality checks on first submission.** Led a 6-month standardization proof of concept that became an organizational reference model for building cloud services.
 
-| Project | What it shows |
-| --- | --- |
-| [**docu-test**](https://github.com/ivan-zdravkov/docu-test) | ASP.NET Core Web API with a multi-layer architecture, Dapper over SQL Server, a parallel generator for 50M documents, and a strategy-based, row-level access-control model. |
-| [**free-water-tips**](https://github.com/ivan-zdravkov/free-water-tips) · [live](https://freewater.tips) | A full-stack PWA I run end to end: React Native Web front end, TypeScript Azure Functions + Cosmos DB API, a GitHub Actions pipeline with separate testing and production environments, and Selenium e2e tests. |
-| [**tilt-for-the-win**](https://github.com/ivan-zdravkov/tilt-for-the-win) · [site](https://tilt-for-the-win.zdravkov.dev) | A daily-maze mobile game for iOS and Android in Godot, with a global daily leaderboard. Planned and tracked in the open. |
-| [**masters**](https://github.com/ivan-zdravkov/masters) | Master's thesis: comparing 2D and 3D methods for 3D skeletal model mapping (motion tracking). |
-| [**bachelors**](https://github.com/ivan-zdravkov/bachelors) | Bachelor's thesis: an ASP.NET MVC online payments and RFID access system. |
+Along the way: freelance lead engineer for clients in logistics, retail and fintech (Maersk, adidas, Dext); cloud automation tech lead and consultant at VMware by Broadcom; seven years growing from junior developer to technical lead on a healthcare and education platform.
 
 ## Tech
 
-**Core:** C# · .NET / ASP.NET Core · SQL Server · Dapper · REST APIs · NUnit / Moq
+**Core:** C# · .NET / ASP.NET Core · SQL · REST & service-oriented architecture · performance tuning · unit & integration testing
 
-**Also:** TypeScript · React / React Native · Azure (Functions, Cosmos DB) · GitHub Actions
+**Cloud & delivery:** Azure · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · infrastructure as code
 
----
+**Also:** TypeScript · React · Angular · Python · PowerShell · Bash · AI-assisted development (Claude, GitHub Copilot)
 
-🌐 [zdravkov.dev](https://zdravkov.dev) · ✉️ [ivan@zdravkov.dev](mailto:ivan@zdravkov.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/ivan-zdravkov/)
+## Background
+
+MSc in Computer Engineering, Technical University of Sofia, including a postgraduate research exchange at the University of Tokyo · AWS Certified Solutions Architect – Associate · Microsoft MCSD / MCSA
