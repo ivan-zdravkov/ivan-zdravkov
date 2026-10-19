@@ -5,6 +5,18 @@
 > 🟢 **Open to part-time contract / freelance work — about 20 hours a week, remote (Sofia, CET).**
 > [ivan@zdravkov.dev](mailto:ivan@zdravkov.dev) · [LinkedIn](https://www.linkedin.com/in/ivan-zdravkov/) · [zdravkov.dev](https://zdravkov.dev)
 
+## Engineering with AI
+
+**Code is solved. Problems still aren't.** I was a strong engineer before AI. Used properly, it makes me a much stronger one. It doesn't replace the engineer. It takes the mechanical work off my plate so I can focus on what matters: solving the problem.
+
+In my current team, I help build a shared workspace where engineers and AI agents work side by side across dozens of repositories:
+
+- **Small, composable skills.** Each one does a single job well: investigating a ticket, tracing a change's impact, reviewing a pull request, deploying, checking acceptance criteria. Chained together, they take a plain-language bug report to a verified fix.
+- **People keep the judgment.** Agents recommend, explain why and say how confident they are. A person makes the call.
+- **Evidence first.** Reproduce the issue, trace it to where the data actually goes wrong, and write down the findings before changing anything.
+- **Verified, not assumed.** Every significant change gets an independent reviewer whose job is to argue against it, and nothing is done until it's seen working in the real environment. A passing build isn't proof.
+- **Shared memory.** When we catch a wrong assumption, we record it, so neither people nor agents make it again.
+
 ## What I do best
 
 - **Architecture.** Re-architecting legacy systems into modular, service-oriented designs that a team can actually own. Clear boundaries, solid data models, documentation and onboarding that outlive the engagement.
