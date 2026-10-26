@@ -17,6 +17,12 @@ My current team works AI-first, with engineers and agents side by side across do
 - **Start from evidence and verify outcomes.** Reproduce first, trace the issue to its root, and call a change done only when it works in the real environment, not when the build passes.
 - **Keep the judgment.** The agent recommends and explains. I decide.
 
+## Open source
+
+- **[ivan-the-terminal](https://github.com/ivan-zdravkov/ivan-the-terminal)**: my self-hosted copilot. Claude Code skills that run my home server, retro game library, job search and daily health plan, each one built to replace a paid service. Deterministic work lives in tested scripts, skills stay short, and a multi-layer leak guard (git hooks, CI, a Claude hook) keeps personal data out of the public repo.
+- **[Подай глобата](https://zdravkov.dev/podai-globata)**: a free Claude skill for Bulgarian citizens. Photograph a wrongly parked car on your phone, and Claude reads the time, GPS and plate, finds the violations and the article of the law, routes the report to the right authority and drafts the formal email.
+- **[free-water-tips](https://github.com/ivan-zdravkov/free-water-tips)**: a PWA for finding free drinking water, with React Native Web, TypeScript Azure Functions, Cosmos DB and full CI/CD.
+
 ## What I do best
 
 - **Architecture.** Re-architecting legacy systems into modular, service-oriented designs that a team can actually own. Clear boundaries, solid data models, documentation and onboarding that outlive the engagement.
